@@ -1,0 +1,10 @@
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\bin\Release\CloudflareDDNS-Updater.exe.config
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\bin\Release\CloudflareDDNS-Updater.exe
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\bin\Release\CloudflareDDNS-Updater.pdb
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\bin\Release\Newtonsoft.Json.dll
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\bin\Release\Newtonsoft.Json.xml
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\obj\Release\CloudflareDDNS-Updater.csproj.AssemblyReference.cache
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\obj\Release\CloudflareDDNS-Updater.csproj.CoreCompileInputs.cache
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\obj\Release\Cloudfla.C11B8A4E.Up2Date
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\obj\Release\CloudflareDDNS-Updater.exe
+D:\repos\CloudflareDDNS-Updater\CloudflareDDNS-Updater\obj\Release\CloudflareDDNS-Updater.pdb
