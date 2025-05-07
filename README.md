@@ -1,4 +1,4 @@
-# Cloudflare DDNS Updater for Windows
+# Cloudflare DDNS Updater
 
 ### Client per l'aggiornamento dei record A Cloudflare
 
@@ -14,4 +14,4 @@ Modificare config.json nella directory di installazione (default:'C:\Program Fil
   -   "Email": "YOUR_EMAIL",
   -   "Domain": "yourdomain.com"
 
-Versione Framework .Net Framework 4.8
+.Net 8
