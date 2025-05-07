@@ -9,6 +9,7 @@
 #### Configurazione
 
 Il file di configurazione viene generato dopo il primo avvio nella directory dell'eseguibile
+
 Modificare config.json nella directory di installazione (default:'C:\Program Files (x86)\CloudflareDDNS-Updater-Setup'):
 
   -   "ApiKey": "YOUR_API_KEY",
