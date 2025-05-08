@@ -1,4 +1,4 @@
-# Cloudflare DDNS Updater
+# <span><img src="https://icon.icepanel.io/Technology/svg/Cloudflare.svg" height="60"> Cloudflare DDNS Updater</span>
 
 ### Client per l'aggiornamento dei record A Cloudflare
 
@@ -8,12 +8,8 @@
 
 #### Configurazione
 
-Il file di configurazione viene generato dopo il primo avvio nella directory dell'eseguibile
-
-Modificare config.json nella directory di installazione (default:'C:\Program Files (x86)\CloudflareDDNS-Updater-Setup'):
+Modificare config.json nella directory di installazione (default:'C:\Program Files (x86)\CloudflareDDNS-Updater'):
 
   -   "ApiKey": "YOUR_API_KEY",
   -   "Email": "YOUR_EMAIL",
   -   "Domain": "yourdomain.com"
-
-.Net 8
